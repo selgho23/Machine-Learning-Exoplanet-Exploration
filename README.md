@@ -24,5 +24,5 @@ The RFC model was the more accurate of the two by a small margin.
 
 ![models_eval](Images/models_eval.png)
 
-## Project Summary
+## Conclusions
 Evidently, given the relatively high accuracy of the RFC model, I believe it to be a reasonable predictor of exoplanet candidacy. However, a model leveraging deep learning techniques might prove superior.
